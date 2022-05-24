@@ -1,5 +1,5 @@
 # CS 3310 Design & Analysis of Algorithms
-This repository stores a few of my projects from my class CS 3310 - Design and Analysis of Algorithms
+This repository stores a few of my projects from my class CS 3310 - Design and Analysis of Algorithms.
 I took this course at California State Polytechnic University, Pomona
 
 There are 2 Projects in this repository. 
